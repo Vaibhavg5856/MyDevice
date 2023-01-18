@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-18T16:29:53 IST" name="Default suite" finished-at="2023-01-18T16:30:56 IST" duration-ms="63177">
+    <groups>
+    </groups>
+    <test started-at="2023-01-18T16:29:53 IST" name="Default test" finished-at="2023-01-18T16:30:56 IST" duration-ms="63177">
+      <class name="loginpageassignment.pageobject">
+        <test-method is-config="true" signature="config()[pri:0, instance:loginpageassignment.pageobject@3e27aa33]" started-at="2023-01-18T16:29:53 IST" name="config" finished-at="2023-01-18T16:29:54 IST" duration-ms="738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="Clickbutton()[pri:0, instance:loginpageassignment.pageobject@3e27aa33]" started-at="2023-01-18T16:29:54 IST" name="Clickbutton" finished-at="2023-01-18T16:30:56 IST" duration-ms="62330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clickbutton -->
+      </class> <!-- loginpageassignment.pageobject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
